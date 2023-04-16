@@ -8,4 +8,4 @@ Categories: index
 * [रारा](poems/rara/index.html)
 
 ## गीत(हरू)
-* [जीवनको पाना](songs/jeevan_ka_paana/index.html)
+* [जीवनको पाना](songs/jeevan_ko_paana/index.html)
