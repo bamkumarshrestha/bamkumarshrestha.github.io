@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>/galleries/rss.xml</loc>
-  <lastmod>2023-04-16T08:41:00Z</lastmod>
+  <loc>https://bamkumarshrestha.github.io/galleries/rss.xml</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/rss.xml</loc>
-  <lastmod>2023-04-16T08:41:00Z</lastmod>
+  <loc>https://bamkumarshrestha.github.io/rss.xml</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/sitemap.xml</loc>
-  <lastmod>2023-04-16T08:41:00Z</lastmod>
+  <loc>https://bamkumarshrestha.github.io/sitemap.xml</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </sitemap>
 </sitemapindex>

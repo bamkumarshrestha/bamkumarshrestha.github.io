@@ -1,4 +1,4 @@
-Sitemap: sitemapindex.xml
+Sitemap: https://bamkumarshrestha.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: 
+Host: bamkumarshrestha.github.io

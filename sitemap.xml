@@ -6,33 +6,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>/</loc>
-  <lastmod>2023-04-16T06:43:00Z</lastmod>
+  <loc>https://bamkumarshrestha.github.io/archive.html</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </url>
  <url>
-  <loc>/archive.html</loc>
-  <lastmod>2023-04-16T08:41:00Z</lastmod>
+  <loc>https://bamkumarshrestha.github.io/blog/</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </url>
  <url>
-  <loc>/categories/</loc>
-  <lastmod>2023-04-16T06:27:00Z</lastmod>
+  <loc>https://bamkumarshrestha.github.io/categories/</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </url>
  <url>
-  <loc>/galleries/</loc>
-  <lastmod>2023-04-16T06:27:00Z</lastmod>
+  <loc>https://bamkumarshrestha.github.io/galleries/</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </url>
  <url>
-  <loc>/listings/</loc>
-  <lastmod>2023-04-16T06:27:00Z</lastmod>
+  <loc>https://bamkumarshrestha.github.io/listings/</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </url>
  <url>
-  <loc>/pages/</loc>
-  <lastmod>2023-04-16T07:53:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="pages/" />
+  <loc>https://bamkumarshrestha.github.io/pages/</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </url>
  <url>
-  <loc>/pages/poems/rara/</loc>
-  <lastmod>2023-04-16T07:53:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="pages/poems/rara/" />
+  <loc>https://bamkumarshrestha.github.io/pages/poems/rara/</loc>
+  <lastmod>2023-04-16T10:44:00Z</lastmod>
  </url>
 </urlset>
