@@ -20,10 +20,10 @@ BLOG_AUTHOR = "बमकुमार श्रेष्ठ"  # (translatable)
 BLOG_TITLE = "बमकुमार श्रेष्ठ का रचनाहरू"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = ""
+SITE_URL = "https://bamkumarshrestha.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "bamkumarshrestha.github.io"
+# BASE_URL = "https://bamkumarshrestha.github.io/"
 BLOG_EMAIL = "sbamkumar@gmail.com"
 BLOG_DESCRIPTION = ""  # (translatable)
 
@@ -142,7 +142,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("pages/index.html", "Welcome"),
+        ("pages/index.html", "स्वागतम"),
         # ("/archive.html", "Archive"),
         # ("/categories/", "Tags"),
         # ("/rss.xml", "RSS feed"),
@@ -157,6 +157,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
+# THEME = "bootblog4"
 THEME = "hyde"
 
 # A theme color. In default themes, it might be displayed by some browsers as
@@ -236,12 +237,7 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
-POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
-)
+POSTS = ()
 PAGES = (
     ("pages/*.rst", "pages", "page.tmpl"),
     ("pages/*.md", "pages", "page.tmpl"),
@@ -581,7 +577,7 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-# INDEX_PATH = ""
+INDEX_PATH = "blog"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -1129,7 +1125,10 @@ PRETTY_URLS = True
 #       with the MarkdownExtension class and should not be added here.
 # Defaults are markdown.extensions.(fenced_code|codehilite|extra)
 # markdown.extensions.meta is required for Markdown metadata.
-MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite', 'markdown.extensions.extra']
+MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code',
+                       'markdown.extensions.codehilite',
+                       'markdown.extensions.extra',
+                       'markdown.extensions.meta']
 
 # Options to be passed to markdown extensions (See https://python-markdown.github.io/reference/)
 # Default is {} (no config at all)
