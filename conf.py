@@ -25,7 +25,7 @@ SITE_URL = "bamkumarshrestha.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "bamkumarshrestha.github.io"
 BLOG_EMAIL = "sbamkumar@gmail.com"
-BLOG_DESCRIPTION = "बमकुमार श्रेष्ठ का रचनाहरू"  # (translatable)
+BLOG_DESCRIPTION = ""  # (translatable)
 
 # Nikola is multilingual!
 #
