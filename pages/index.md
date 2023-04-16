@@ -4,5 +4,8 @@ Slug:
 Tags: markdown
 Categories: index
 
-## कविता
+## कविता(हरू)
 * [रारा](poems/rara/index.html)
+
+## गीत(हरू)
+* [जीवनको पाना](songs/jeevan_ka_paana/index.html)
