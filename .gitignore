@@ -1,2 +1,7 @@
+_site
+*.pyc
+cahce/
+output/
 __pycache__/*
 */__pycache__/*
+.doit.db
