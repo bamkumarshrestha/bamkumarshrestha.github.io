@@ -6,33 +6,33 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>bamkumarshrestha.github.io/bamkumarshrestha.github.io/</loc>
+  <loc>/</loc>
   <lastmod>2023-04-16T06:43:00Z</lastmod>
  </url>
  <url>
-  <loc>bamkumarshrestha.github.io/bamkumarshrestha.github.io/archive.html</loc>
-  <lastmod>2023-04-16T08:18:00Z</lastmod>
+  <loc>/archive.html</loc>
+  <lastmod>2023-04-16T08:41:00Z</lastmod>
  </url>
  <url>
-  <loc>bamkumarshrestha.github.io/bamkumarshrestha.github.io/categories/</loc>
+  <loc>/categories/</loc>
   <lastmod>2023-04-16T06:27:00Z</lastmod>
  </url>
  <url>
-  <loc>bamkumarshrestha.github.io/bamkumarshrestha.github.io/galleries/</loc>
+  <loc>/galleries/</loc>
   <lastmod>2023-04-16T06:27:00Z</lastmod>
  </url>
  <url>
-  <loc>bamkumarshrestha.github.io/bamkumarshrestha.github.io/listings/</loc>
+  <loc>/listings/</loc>
   <lastmod>2023-04-16T06:27:00Z</lastmod>
  </url>
  <url>
-  <loc>bamkumarshrestha.github.io/bamkumarshrestha.github.io/pages/</loc>
+  <loc>/pages/</loc>
   <lastmod>2023-04-16T07:53:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="bamkumarshrestha.github.io/pages/" />
+  <xhtml:link rel="alternate" hreflang="en" href="pages/" />
  </url>
  <url>
-  <loc>bamkumarshrestha.github.io/bamkumarshrestha.github.io/pages/poems/rara/</loc>
+  <loc>/pages/poems/rara/</loc>
   <lastmod>2023-04-16T07:53:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="bamkumarshrestha.github.io/pages/poems/rara/" />
+  <xhtml:link rel="alternate" hreflang="en" href="pages/poems/rara/" />
  </url>
 </urlset>
