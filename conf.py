@@ -20,7 +20,7 @@ BLOG_AUTHOR = "बमकुमार श्रेष्ठ"  # (translatable)
 BLOG_TITLE = "बमकुमार श्रेष्ठ का रचनाहरू"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "bamkumarshrestha.github.io"
+SITE_URL = "bamkumarshrestha.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "bamkumarshrestha.github.io"
@@ -142,9 +142,10 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/index.html", "Welcome"),
+        # ("/archive.html", "Archive"),
+        # ("/categories/", "Tags"),
+        # ("/rss.xml", "RSS feed"),
     ),
 }
 
