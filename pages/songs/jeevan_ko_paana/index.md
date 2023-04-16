@@ -5,9 +5,9 @@ Tags: markdown, jeevan ko paana
 Categories: Song
 
 ## पुरुष संस्करण
-<iframe width="950" height="534" src="https://www.youtube.com/embed/Ocog9qO9nWI" title="JIBAN KO PANA | Official MV | MADAN KRISHNA SHRESTHA | SAROJ KHANAL |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/Ocog9qO9nWI" frameborder='0' allowfullscreen></iframe></div>
 
 ## महिला संस्करण
-<iframe width="950" height="534" src="https://www.youtube.com/embed/i0GR6aIFbZo" title="Jiwanko Pana  - Benisha Poudel/ Rajendra Wagle / Bam Kumar Shrestha / Santosh / Devendra - New Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/i0GR6aIFbZo" frameborder='0' allowfullscreen></iframe></div>
 
 ## शब्द
