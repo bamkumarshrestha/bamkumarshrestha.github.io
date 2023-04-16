@@ -16,7 +16,7 @@ Categories: Poem
 &nbsp;&nbsp;&nbsp;&nbsp;घुच्चिको लेक  
 &nbsp;&nbsp;&nbsp;&nbsp;ताल्चाको भेक  
 &nbsp;&nbsp;&nbsp;&nbsp;तिमीसङ्ग भेट्ने  
-&nbsp;&nbsp;&nbsp;&nbsp;गजबको यो संयोग  
+&nbsp;&nbsp;&nbsp;&nbsp;गजबको यो संयोग |  
   
 रारा ...  
 स्पर्शले दिल छोयो  
@@ -38,7 +38,7 @@ Categories: Poem
 कानमा परेको  
 मन्द सुशेली  
 मिलिचौरको मैदान  
-एकान्त र सुनसान  
+एकान्त र सुनसान |  
   
 &nbsp;&nbsp;&nbsp;&nbsp;तिमि, अनि म  
 &nbsp;&nbsp;&nbsp;&nbsp;तिम्रो गहिराई त  
