@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>बमकुमार श्रेष्ठ का रचनाहरू (Posts about markdown)</title><link>https://bamkumarshrestha.github.io/</link><description></description><atom:link href="https://bamkumarshrestha.github.io/categories/markdown.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:sbamkumar@gmail.com"&gt;बमकुमार श्रेष्ठ&lt;/a&gt; </copyright><lastBuildDate>Sun, 16 Apr 2023 14:32:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>बमकुमार श्रेष्ठ का रचनाहरू</title><link>https://bamkumarshrestha.github.io/pages/</link><dc:creator>बमकुमार श्रेष्ठ</dc:creator><description>&lt;h3&gt;कविता(हरू)&lt;/h3&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>बमकुमार श्रेष्ठ का रचनाहरू (Posts about markdown)</title><link>https://bamkumarshrestha.github.io/</link><description></description><atom:link href="https://bamkumarshrestha.github.io/categories/markdown.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:sbamkumar@gmail.com"&gt;बमकुमार श्रेष्ठ&lt;/a&gt; </copyright><lastBuildDate>Mon, 17 Apr 2023 06:16:22 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>बमकुमार श्रेष्ठ का रचनाहरू</title><link>https://bamkumarshrestha.github.io/pages/</link><dc:creator>बमकुमार श्रेष्ठ</dc:creator><description>&lt;h3&gt;कविताहरू&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://bamkumarshrestha.github.io/pages/poems/rara/index.html"&gt;रारा&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bamkumarshrestha.github.io/pages/poems/kaamana/index.html"&gt;कामना&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bamkumarshrestha.github.io/pages/poems/kupinde/index.html"&gt;कुपिण्डे ताल&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;गीत(हरू)&lt;/h3&gt;
+&lt;h3&gt;गीत&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://bamkumarshrestha.github.io/pages/songs/jeevan_ko_paana/index.html"&gt;जीवनको पाना&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description><category>markdown</category><guid>https://bamkumarshrestha.github.io/pages/</guid><pubDate>Sat, 15 Apr 2023 18:15:00 GMT</pubDate></item></channel></rss>
