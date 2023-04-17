@@ -29,7 +29,7 @@ Categories: Poem
 निर्मल पानी कुपिण्डेले  
 प्रसिद्धि कमाएको |  
 
-&nbsp;&nbsp;&nbsp;&nbsp;सिमखार्कको थाप्लोबाट  
+&nbsp;&nbsp;&nbsp;&nbsp;सिमखर्कको थाप्लोबाट  
 &nbsp;&nbsp;&nbsp;&nbsp;देखिन्छ है बजार  
 &nbsp;&nbsp;&nbsp;&nbsp;गरेपछि पाइन्छ है  
 &nbsp;&nbsp;&nbsp;&nbsp;विकास त्यहाँ हजार |  
