@@ -11,3 +11,4 @@ Categories: index
 
 ## गीत
 * [जीवनको पाना](songs/jeevan_ko_paana/index.html)
+* [मुटुमा सजाउँदै लगेँ](songs/mutuma_sajaudai_lage/index.html)
