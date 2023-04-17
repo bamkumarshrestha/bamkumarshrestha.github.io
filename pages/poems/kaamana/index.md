@@ -5,7 +5,7 @@ Tags: markdown, kaamana
 Categories: Poem
 
 म होइन मेरो भनौँ  
-मेरो होइन हाम्रो भनौँ|  
+मेरो होइन हाम्रो भनौँ |  
 
 &nbsp;&nbsp;&nbsp;&nbsp;मातृभूमि प्रिय हाम्रो  
 &nbsp;&nbsp;&nbsp;&nbsp;छटा यसको अति राम्रो  
